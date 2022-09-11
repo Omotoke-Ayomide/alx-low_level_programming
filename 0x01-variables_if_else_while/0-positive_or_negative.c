@@ -5,9 +5,9 @@
 #include <time.h>
 
 /**
-* main - Prints if number is positive, zero or negative
+* main - entry point into the program
 *
-* Description : The function below generates a random number "n"
+* Description: The function below generates a random number "n"
 * Result : Always 0 (Success)
 */
 int main(void)
