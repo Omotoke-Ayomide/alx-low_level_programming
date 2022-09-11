@@ -1,15 +1,15 @@
-#include <stdio.h>
-
 #include <stdlib.h>
 
 #include <time.h>
 
+#include <stdio.h> 
+
 /**
-* main - entry point into the program
-*
-* Description: The function below generates a random number "n"
-* Result : Always 0 (Success)
-*/
+ * main - entry point into the program
+ *
+ * Description: The function below generates a random number "n"
+ * Result : Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
